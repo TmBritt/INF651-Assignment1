@@ -1,4 +1,5 @@
-// Image switcher code
+//Tai Britt
+//INF 651
 
 let myImage = document.querySelector('img');
 
@@ -11,7 +12,6 @@ myImage.onclick = function() {
   }
 }
 
-// Personalized welcome message code
 
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
